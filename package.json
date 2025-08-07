@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "expo": "^51.0.0",
+    "react": "18.2.0",
+    "react-native": "0.74.0",
+    "react-native-maps": "1.14.0",
+    "xlsx": "^0.18.5",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/material-top-tabs": "^6.6.7",
+    "react-native-tab-view": "^3.5.2"
+  }
+}
